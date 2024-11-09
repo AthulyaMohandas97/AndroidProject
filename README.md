@@ -1,5 +1,5 @@
 # AndroidProject
-This is an Android App to view the list of contents of an API.
+This repository contain MyListApp, which is an Android App to view the list of contents of an API.
 Android Studio is IDE used to develop this app. 
 Language used is Kotlin.
 MVVM(Model View ViewModel) Software design pattern is used.

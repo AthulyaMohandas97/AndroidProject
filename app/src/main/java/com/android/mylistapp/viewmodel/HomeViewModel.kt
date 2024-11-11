@@ -32,8 +32,4 @@ class HomeViewModel : ViewModel() {
             _loading.value = false
         }
     }
-
-    fun getProductById(id: Int): Product? {
-        return _products.value?.find { it.id == id }
-    }
 }
